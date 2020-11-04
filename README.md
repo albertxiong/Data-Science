@@ -6,6 +6,6 @@
 	
   As a working for Data Science engineer，There are some thinking,
 experence and conclusion about Data Science of mine. Your valuable 
-Suggestions are welcome. learn from each other.
+suggestions are welcome. Learn from each other.
 
 Email: itweixiao@sina.com
